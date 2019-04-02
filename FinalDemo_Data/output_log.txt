@@ -1,0 +1,146 @@
+Initialize engine version: 5.4.3f1 (01f4c123905a)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GPU (ID=0x134b)
+    Vendor:   NVIDIA
+    VRAM:     987 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\dillo\Downloads\EpicGorillaSphere-develop\EpicGorillaSphere-develop\FinalDemo_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\dillo\Downloads\EpicGorillaSphere-develop\EpicGorillaSphere-develop\FinalDemo_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\dillo\Downloads\EpicGorillaSphere-develop\EpicGorillaSphere-develop\FinalDemo_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\dillo\Downloads\EpicGorillaSphere-develop\EpicGorillaSphere-develop\FinalDemo_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\dillo\Downloads\EpicGorillaSphere-develop\EpicGorillaSphere-develop\FinalDemo_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\dillo\Downloads\EpicGorillaSphere-develop\EpicGorillaSphere-develop\FinalDemo_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\dillo\Downloads\EpicGorillaSphere-develop\EpicGorillaSphere-develop\FinalDemo_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\dillo\Downloads\EpicGorillaSphere-develop\EpicGorillaSphere-develop\FinalDemo_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\dillo\Downloads\EpicGorillaSphere-develop\EpicGorillaSphere-develop\FinalDemo_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\dillo\Downloads\EpicGorillaSphere-develop\EpicGorillaSphere-develop\FinalDemo_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\dillo\Downloads\EpicGorillaSphere-develop\EpicGorillaSphere-develop\FinalDemo_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\dillo\Downloads\EpicGorillaSphere-develop\EpicGorillaSphere-develop\FinalDemo_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.302 seconds
+Platform assembly: C:\Users\dillo\Downloads\EpicGorillaSphere-develop\EpicGorillaSphere-develop\FinalDemo_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\dillo\Downloads\EpicGorillaSphere-develop\EpicGorillaSphere-develop\FinalDemo_Data\Managed\System.dll (this message is harmless)
+desktop: 3000x2000 60Hz; virtual: 3000x2000 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.895269 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 37c0 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 7.352876 ms
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 653.
+Total: 0.524762 ms (FindLiveObjects: 0.037925 ms CreateObjectMapping: 0.037196 ms MarkObjects: 0.394939 ms  DeleteObjects: 0.053606 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.336157 ms
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 1761.
+Total: 0.644010 ms (FindLiveObjects: 0.097002 ms CreateObjectMapping: 0.039019 ms MarkObjects: 0.362483 ms  DeleteObjects: 0.144774 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Teleporter.TeleportToExit (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
+  at Teleporter.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Teleporter.TeleportToExit (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
+  at Teleporter.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.333689 ms
+
+Unloading 46 unused Assets to reduce memory usage. Loaded Objects now: 1406.
+Total: 5.347546 ms (FindLiveObjects: 0.212968 ms CreateObjectMapping: 0.158267 ms MarkObjects: 1.935677 ms  DeleteObjects: 3.038080 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Teleporter.TeleportToExit (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
+  at Teleporter.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1302)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Teleporter.TeleportToExit (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
+  at Teleporter.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Teleporter.TeleportToExit (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
+  at Teleporter.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1302)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Teleporter.TeleportToExit (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
+  at Teleporter.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Teleporter.TeleportToExit (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
+  at Teleporter.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1302)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Teleporter.TeleportToExit (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
+  at Teleporter.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Teleporter.TeleportToExit (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
+  at Teleporter.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1302)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Teleporter.TeleportToExit (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
+  at Teleporter.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Teleporter.TeleportToExit (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
+  at Teleporter.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1302)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.699005 ms
+
+Unloading 73 unused Assets to reduce memory usage. Loaded Objects now: 427.
+Total: 1.593615 ms (FindLiveObjects: 0.045219 ms CreateObjectMapping: 0.030632 ms MarkObjects: 0.358837 ms  DeleteObjects: 1.158562 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.418208 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 699.
+Total: 1.952817 ms (FindLiveObjects: 0.121435 ms CreateObjectMapping: 0.121435 ms MarkObjects: 1.486402 ms  DeleteObjects: 0.221355 ms)
+
